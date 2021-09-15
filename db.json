@@ -8,29 +8,74 @@
         },
         {
             
-        },
-        {
+          "id":2,
+          "name":"Cơm chiên trứng 2",
+          "cookingRecipe": "Nguyên liệu :\n+ 1 chén cơm chín\n+ 1 củ hành tây\n+ 4 quả trứng\n+ Hành lá\nNước mắm\nCách làm\n- Bước 1: Sơ chế nguyên liệu\n+ Đập trứng cho vào chén và đánh tan.\n+ Hành tây bóc vỏ, thái nhỏ.\n+ Hành lá rửa sạch, cắt nhỏ.\n- Bước 2: Chiên cơm\n+ Bạn cho dầu ăn vào chảo, rồi cho hành tây vào phi thơm. Tiếp theo, cho cơm vào đảo đều và gạt cơm qua một bên. Tiếp đến, bạn cho trứng vào rồi đảo đều trứng với cho trứng bám đều cơm. Cho vào 1 muỗng nước mắm và chiên đến khi hạt cơm săn lại thì tắt bếp rồi cho hành lá vào là được.",
+          "image": "https://cdn.cet.edu.vn/wp-content/uploads/2018/12/com-chien-trung.jpg"
 
         },
         {
 
-        },
-        {
+          "id":3,
+          "name":"Cơm chiên trứng 3",
+          "cookingRecipe": "Nguyên liệu :\n+ 1 chén cơm chín\n+ 1 củ hành tây\n+ 4 quả trứng\n+ Hành lá\nNước mắm\nCách làm\n- Bước 1: Sơ chế nguyên liệu\n+ Đập trứng cho vào chén và đánh tan.\n+ Hành tây bóc vỏ, thái nhỏ.\n+ Hành lá rửa sạch, cắt nhỏ.\n- Bước 2: Chiên cơm\n+ Bạn cho dầu ăn vào chảo, rồi cho hành tây vào phi thơm. Tiếp theo, cho cơm vào đảo đều và gạt cơm qua một bên. Tiếp đến, bạn cho trứng vào rồi đảo đều trứng với cho trứng bám đều cơm. Cho vào 1 muỗng nước mắm và chiên đến khi hạt cơm săn lại thì tắt bếp rồi cho hành lá vào là được.",
+          "image": "https://cdn.cet.edu.vn/wp-content/uploads/2018/12/com-chien-trung.jpg"
 
         },
         {
 
-        },
-        {
+          "id":4,
+          "name":"Cơm chiên trứng 4",
+          "cookingRecipe": "Nguyên liệu :\n+ 1 chén cơm chín\n+ 1 củ hành tây\n+ 4 quả trứng\n+ Hành lá\nNước mắm\nCách làm\n- Bước 1: Sơ chế nguyên liệu\n+ Đập trứng cho vào chén và đánh tan.\n+ Hành tây bóc vỏ, thái nhỏ.\n+ Hành lá rửa sạch, cắt nhỏ.\n- Bước 2: Chiên cơm\n+ Bạn cho dầu ăn vào chảo, rồi cho hành tây vào phi thơm. Tiếp theo, cho cơm vào đảo đều và gạt cơm qua một bên. Tiếp đến, bạn cho trứng vào rồi đảo đều trứng với cho trứng bám đều cơm. Cho vào 1 muỗng nước mắm và chiên đến khi hạt cơm săn lại thì tắt bếp rồi cho hành lá vào là được.",
+          "image": "https://cdn.cet.edu.vn/wp-content/uploads/2018/12/com-chien-trung.jpg"
 
         },
         {
 
-        },
-        {
+          "id":5,
+          "name":"Cơm chiên trứng 5",
+          "cookingRecipe": "Nguyên liệu :\n+ 1 chén cơm chín\n+ 1 củ hành tây\n+ 4 quả trứng\n+ Hành lá\nNước mắm\nCách làm\n- Bước 1: Sơ chế nguyên liệu\n+ Đập trứng cho vào chén và đánh tan.\n+ Hành tây bóc vỏ, thái nhỏ.\n+ Hành lá rửa sạch, cắt nhỏ.\n- Bước 2: Chiên cơm\n+ Bạn cho dầu ăn vào chảo, rồi cho hành tây vào phi thơm. Tiếp theo, cho cơm vào đảo đều và gạt cơm qua một bên. Tiếp đến, bạn cho trứng vào rồi đảo đều trứng với cho trứng bám đều cơm. Cho vào 1 muỗng nước mắm và chiên đến khi hạt cơm săn lại thì tắt bếp rồi cho hành lá vào là được.",
+          "image": "https://cdn.cet.edu.vn/wp-content/uploads/2018/12/com-chien-trung.jpg"
 
         },
         {
+
+          "id":6,
+          "name":"Cơm chiên trứng 6",
+          "cookingRecipe": "Nguyên liệu :\n+ 1 chén cơm chín\n+ 1 củ hành tây\n+ 4 quả trứng\n+ Hành lá\nNước mắm\nCách làm\n- Bước 1: Sơ chế nguyên liệu\n+ Đập trứng cho vào chén và đánh tan.\n+ Hành tây bóc vỏ, thái nhỏ.\n+ Hành lá rửa sạch, cắt nhỏ.\n- Bước 2: Chiên cơm\n+ Bạn cho dầu ăn vào chảo, rồi cho hành tây vào phi thơm. Tiếp theo, cho cơm vào đảo đều và gạt cơm qua một bên. Tiếp đến, bạn cho trứng vào rồi đảo đều trứng với cho trứng bám đều cơm. Cho vào 1 muỗng nước mắm và chiên đến khi hạt cơm săn lại thì tắt bếp rồi cho hành lá vào là được.",
+          "image": "https://cdn.cet.edu.vn/wp-content/uploads/2018/12/com-chien-trung.jpg"
+
+        },
+        {
+
+          "id":7,
+          "name":"Cơm chiên trứng 7",
+          "cookingRecipe": "Nguyên liệu :\n+ 1 chén cơm chín\n+ 1 củ hành tây\n+ 4 quả trứng\n+ Hành lá\nNước mắm\nCách làm\n- Bước 1: Sơ chế nguyên liệu\n+ Đập trứng cho vào chén và đánh tan.\n+ Hành tây bóc vỏ, thái nhỏ.\n+ Hành lá rửa sạch, cắt nhỏ.\n- Bước 2: Chiên cơm\n+ Bạn cho dầu ăn vào chảo, rồi cho hành tây vào phi thơm. Tiếp theo, cho cơm vào đảo đều và gạt cơm qua một bên. Tiếp đến, bạn cho trứng vào rồi đảo đều trứng với cho trứng bám đều cơm. Cho vào 1 muỗng nước mắm và chiên đến khi hạt cơm săn lại thì tắt bếp rồi cho hành lá vào là được.",
+          "image": "https://cdn.cet.edu.vn/wp-content/uploads/2018/12/com-chien-trung.jpg"
+
+        },
+        {
+
+          "id":8,
+          "name":"Cơm chiên trứng 8",
+          "cookingRecipe": "Nguyên liệu :\n+ 1 chén cơm chín\n+ 1 củ hành tây\n+ 4 quả trứng\n+ Hành lá\nNước mắm\nCách làm\n- Bước 1: Sơ chế nguyên liệu\n+ Đập trứng cho vào chén và đánh tan.\n+ Hành tây bóc vỏ, thái nhỏ.\n+ Hành lá rửa sạch, cắt nhỏ.\n- Bước 2: Chiên cơm\n+ Bạn cho dầu ăn vào chảo, rồi cho hành tây vào phi thơm. Tiếp theo, cho cơm vào đảo đều và gạt cơm qua một bên. Tiếp đến, bạn cho trứng vào rồi đảo đều trứng với cho trứng bám đều cơm. Cho vào 1 muỗng nước mắm và chiên đến khi hạt cơm săn lại thì tắt bếp rồi cho hành lá vào là được.",
+          "image": "https://cdn.cet.edu.vn/wp-content/uploads/2018/12/com-chien-trung.jpg"
+
+        },
+        {
+
+          "id":9,
+          "name":"Cơm chiên trứng 9",
+          "cookingRecipe": "Nguyên liệu :\n+ 1 chén cơm chín\n+ 1 củ hành tây\n+ 4 quả trứng\n+ Hành lá\nNước mắm\nCách làm\n- Bước 1: Sơ chế nguyên liệu\n+ Đập trứng cho vào chén và đánh tan.\n+ Hành tây bóc vỏ, thái nhỏ.\n+ Hành lá rửa sạch, cắt nhỏ.\n- Bước 2: Chiên cơm\n+ Bạn cho dầu ăn vào chảo, rồi cho hành tây vào phi thơm. Tiếp theo, cho cơm vào đảo đều và gạt cơm qua một bên. Tiếp đến, bạn cho trứng vào rồi đảo đều trứng với cho trứng bám đều cơm. Cho vào 1 muỗng nước mắm và chiên đến khi hạt cơm săn lại thì tắt bếp rồi cho hành lá vào là được.",
+          "image": "https://cdn.cet.edu.vn/wp-content/uploads/2018/12/com-chien-trung.jpg"
+
+        },
+        {
+
+          "id":10,
+          "name":"Cơm chiên trứng 10",
+          "cookingRecipe": "Nguyên liệu :\n+ 1 chén cơm chín\n+ 1 củ hành tây\n+ 4 quả trứng\n+ Hành lá\nNước mắm\nCách làm\n- Bước 1: Sơ chế nguyên liệu\n+ Đập trứng cho vào chén và đánh tan.\n+ Hành tây bóc vỏ, thái nhỏ.\n+ Hành lá rửa sạch, cắt nhỏ.\n- Bước 2: Chiên cơm\n+ Bạn cho dầu ăn vào chảo, rồi cho hành tây vào phi thơm. Tiếp theo, cho cơm vào đảo đều và gạt cơm qua một bên. Tiếp đến, bạn cho trứng vào rồi đảo đều trứng với cho trứng bám đều cơm. Cho vào 1 muỗng nước mắm và chiên đến khi hạt cơm săn lại thì tắt bếp rồi cho hành lá vào là được.",
+          "image": "https://cdn.cet.edu.vn/wp-content/uploads/2018/12/com-chien-trung.jpg"
 
         }
     ],
