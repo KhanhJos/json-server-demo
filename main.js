@@ -36,7 +36,7 @@ router.render = (req, res) => {
   //Tổng số item mà query nó có
   const totalCountHeader = headers['x-total-count'];
 
-  if(req.method === 'GET' && totalCountHeader){
+  if(req.method === "GET" && totalCountHeader){
     //lấy ra xem query nằm ở đâu để lấy (req._parsedOriginalUrl.query)
     //console.log(req)
     const queryParams = queryString.parse(req._parsedOriginalUrl.query);
@@ -61,6 +61,8 @@ router.render = (req, res) => {
 
 // Use default router
 server.use("/api",router)
-server.listen(3000, () => {
+const PORT = process.env.PORT || 3000;
+
+server.listen(PORT, () => {
   console.log('JSON Server is running')
 })
