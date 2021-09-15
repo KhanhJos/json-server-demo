@@ -1,0 +1,59 @@
+
+@baseUrl = http://localhost:3000/api
+@resourceName = products
+
+
+# @name get
+GET {{baseUrl}}/{{resourceName}}
+
+
+###
+# @name filerProducts
+#Get ra dữ liệu có màu là gold và price lớn hơn 200
+GET {{baseUrl}}/{{resourceName}}?color=gold&price_gte=200
+
+###
+#Get ra 5 item trong page = 1
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=5
+
+
+###
+# @name sort
+#Get ra dữ liệu theo price tăng dần (asc), giảm dần (desc)
+GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=desc
+
+###
+# @name Operators
+#Get ra dữ liệu có name chứa tên tasty (không đầy đủ) 
+GET {{baseUrl}}/{{resourceName}}?name_like=tasty
+
+
+###
+
+# @name post
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "categoryId": "db4d7d45-a642-45d6-b61c-4053bd8b963e",
+    "name": "Tasty Cotton Shirt",
+    "color": "gold",
+    "price": 125,
+    "description": "Boston's most advanced ",
+    "thumbnailUrl": "http://placeimg.com/400/400"
+}
+
+###
+PATCH {{baseUrl}}/{{resourceName}}/HMyMvLy
+Content-Type: application/json
+
+{
+  "name": "Tasty Cotton Shirt update",
+  "color": "red",
+  "price": 90
+}
+
+###
+DELETE  {{baseUrl}}/{{resourceName}}/2
+
+

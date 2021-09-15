@@ -1,0 +1,29 @@
+
+@baseUrl = http://localhost:3000/api
+
+# @name get
+GET {{baseUrl}}/categories
+
+###
+
+# @name post
+POST {{baseUrl}}/categories
+Content-Type: application/json
+
+{
+    "title": "khanh",
+    "author": "abv"
+}
+
+###
+PATCH {{baseUrl}}/categories/2
+Content-Type: application/json
+
+{
+    "title": "Khanh Jos"
+}
+
+###
+DELETE  {{baseUrl}}/categories/2
+
+
